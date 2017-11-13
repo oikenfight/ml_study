@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ceec4c4-5cc9-4ed6-b48c-27cdc299e6ca" name="Default" comment="" />
+    <list default="true" id="8ceec4c4-5cc9-4ed6-b48c-27cdc299e6ca" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-0-7.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-1-2.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-2-1.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-3-0.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-4-4.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-5-1.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-6-4.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-7-9.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-8-5.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-9-9.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-images-idx3-ubyte" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-labels-idx1-ubyte" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-0-5.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-1-0.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-2-4.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-3-1.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-4-9.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-5-2.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-6-1.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-7-3.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-8-1.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-9-4.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-images-idx3-ubyte" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-labels-idx1-ubyte" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/iris.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-images-idx3-ubyte.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k-labels-idx1-ubyte.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/t10k.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-images-idx3-ubyte.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train-labels-idx1-ubyte.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/chap4/mnist/train.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,53 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xor-train.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch4/xor-train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xor-train2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch4/xor-train2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#16#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cross-iris.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch4/cross-iris.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+            <state relative-caret-position="454">
+              <caret line="50" column="50" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="50" />
               <folding>
                 <element signature="e#16#48#0" expanded="true" />
               </folding>
@@ -65,30 +56,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="cross-iris2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch4/cross-iris2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="16" column="28" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid-mnist.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch4/grid-mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mnist-download.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch4/mnist-download.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iris.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebook/chap4/iris.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xor-train.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch4/xor-train.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
+      <file leaf-file-name="mushroom-download.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch4/mushroom-download.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xor-train2.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch4/xor-train2.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
+      <file leaf-file-name="mushroom.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notebook/chap4/mushroom.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1352">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mushroom-train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch4/mushroom-train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="27" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="33" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mushroom-train2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch4/mushroom-train2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="43" column="23" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/ch4/xor-train2.py" />
         <option value="$PROJECT_DIR$/src/ch4/cross-iris.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/notebook/chap4/bmi.csv" />
       </list>
     </option>
   </component>
@@ -149,7 +203,24 @@
             <path>
               <item name="machine_learning_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_study" type="462c0819:PsiDirectoryNode" />
+              <item name="notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_study" type="462c0819:PsiDirectoryNode" />
+              <item name="notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="chap4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,6 +239,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebook/chap4" />
       <recent name="$PROJECT_DIR$/src/ch4" />
     </key>
   </component>
@@ -208,7 +280,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19593999" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -258,40 +330,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4/xor-train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4/xor-train2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch4/xor-train.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -345,7 +383,7 @@
         <state relative-caret-position="45">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#16#35#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -417,7 +455,7 @@
         <state relative-caret-position="360">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#16#35#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -529,18 +567,16 @@
         <state relative-caret-position="45">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#16#35#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4/cross-iris.py">
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="44" column="15" lean-forward="false" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
-          <folding>
-            <element signature="e#16#48#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -552,11 +588,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+    <entry file="file://$PROJECT_DIR$/src/ch4/bmi-create.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="22" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/chap4/bmi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299479">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/bmi-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/bmi-plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/chap4/bmi-test2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/chap4/bmi-test.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/bmi-plot2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/mushroom-download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/mushroom-train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="27" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/mushroom-train2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/chap4/iris.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/mnist-train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/chap4/mushroom.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1352">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/cross-iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="50" column="50" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="50" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/cross-iris2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/mnist/train-images-idx3-ubyte.gz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/chap4/mnist/t10k.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/mnist-download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4/grid-mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
