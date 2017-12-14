@@ -22,4 +22,5 @@ RUN apt-get update \
     && pip install mecab-python3 \
     janome \
     gensim \
-    opencv-python
+    opencv-python \
+    tensorflow
