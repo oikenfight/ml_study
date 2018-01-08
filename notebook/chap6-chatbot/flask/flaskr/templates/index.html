@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+        h1   { background-color: #ffe0e0; }
+        div  { padding:10px; }
+        span { border-radius: 10px; background-color: #ffe0e0; padding:8px; }
+        .bot { text-align: left; }
+        .usr { text-align: right; }
+    </style>
+</head>
+<body>
+
+    <h1>チャットボットと会話しよう</h1>
+    <div id="chat"></div>
+    <div class="usr">
+        <input type="text" id="txt" name="txt" size="40"/>
+        <button id="say_button">発言</button>
+    </div>
+
+    <script>
+        $('#say_button').on('click', function(){
+            $.ajax({
+                url: '/api_say',
+                type: 'post',
+                data: {
+                    'txt': $('#txt').val(),
+                },
+                success: function(res) {
+                    var txt = $('#txt');
+                    var chat = $('#chat');
+                    var html =
+                        "<div class='usr'><span>" + esc(txt.val()) + "</span>:あなた</div>" +
+                        "<div class='bot'>ボット:<span>" + esc(res) + "</span></div>";
+                    chat.html(chat.html()+html);
+                    txt.val('');
+                },
+                error: function (error) {
+                    console.log(error)
+                }
+            });
+        });
+        function esc(s) {
+            return s.replace('&', '&amp;').replace('<','&lt;')
+                    .replace('>', '&gt;');
+        }
+    </script>
+</body>
+</html>
