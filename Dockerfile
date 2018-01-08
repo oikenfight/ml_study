@@ -23,4 +23,5 @@ RUN apt-get update \
     janome \
     gensim \
     opencv-python \
-    tensorflow
+    tensorflow \
+    flask
